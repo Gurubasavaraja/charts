@@ -2,7 +2,7 @@
   "name": "charts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gurubasavaraja.github.io/charts/",
+  "homepage": "http://gurubasavaraja.github.io/charts",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
