@@ -1,0 +1,30 @@
+.Recharts{
+    /* background-color:gainsboro; */
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+.container{
+    width:100%;
+    max-width: 100%;
+    font-weight: 900;
+    font-size: xx-large;
+ 
+}
+.header{
+    font-size: larger;
+    font-weight: 600;
+    font-family: serif;
+}
+.card{
+   height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+    border-bottom   : 1px solid;
+    flex-basis: 50%;
+    box-sizing: border-box;
+}
